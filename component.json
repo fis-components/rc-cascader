@@ -5,6 +5,9 @@
     "main": "./lib/index",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
-    "version": "0.6.0"
+    "dependencies": {
+        "array-tree-filter": "^1.0.0",
+        "rc-trigger": "^1.0.6"
+    },
+    "version": "0.8.1"
 }
