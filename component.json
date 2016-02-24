@@ -1,0 +1,10 @@
+{
+    "name": "rc-cascader",
+    "description": "cascade select ui component for react",
+    "repos": "https://github.com/react-component/cascader.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.5.1"
+}
